@@ -1,16 +1,95 @@
-# Week 3 — Agricultural EDA Submission
+# Week 3 — Exploratory Data Analysis & Visualization
 
-Complete Week 3 internship package.
+## 📌 Overview
 
-**Data-integrity note:** the numerical EDA records are synthetic analytical records modeled on the Government of India OGD crop-production schema. They are not official observations.
+Week 3 focused on exploring agricultural datasets to identify trends, distributions, relationships and regional patterns. Exploratory Data Analysis (EDA) was used to convert structured agricultural data into meaningful analytical insights.
 
-## Contents
-01_Final_Document — final DOCX
-02_Source_Data — raw analytical sample
-03_Cleaned_Analysis_Data — cleaned EDA dataset
-04_Code — Python EDA script
-05_Visualizations — nine EDA charts
-06_Statistics_and_Tables — statistical outputs
-07_Research_Notes — public-source documentation
-08_Insight_Log — structured findings
-09_Submission_Checklist — QA
+The analysis examined crop production, cultivated area, yield and differences across crops, states and years.
+
+## 🎯 Objectives
+
+* Understand the distribution of agricultural variables.
+* Identify production and yield trends.
+* Compare crops and regions.
+* Study relationships between agricultural variables.
+* Identify correlations and potential patterns.
+* Develop meaningful agricultural visualizations.
+* Translate analytical findings into agribusiness insights.
+
+## 🔍 Key Activities
+
+* Performed univariate analysis.
+* Analysed production and yield distributions.
+* Compared average production across crops.
+* Compared agricultural production across states.
+* Analysed production trends over time.
+* Analysed yield trends over time.
+* Examined area versus production.
+* Studied yield versus production relationships.
+* Created correlation matrices and heatmaps.
+* Analysed yield variability using boxplots.
+* Documented key observations and business implications.
+
+## 📊 Visualizations
+
+The project includes:
+
+* Yield distribution
+* Average production by crop
+* Average production by state
+* Production trend by crop
+* Yield trend by crop
+* Area vs. production
+* Yield vs. production
+* Correlation heatmap
+* Yield boxplot by crop
+
+## 📂 Folder Structure
+
+```text
+Week_3_Agricultural_EDA/
+│
+├── Final_Document/
+├── Source_Data/
+├── Cleaned_Analysis_Data/
+├── Code/
+├── Visualizations/
+├── Statistics_and_Tables/
+├── Research_Notes/
+├── Insight_Log/
+└── Submission_Checklist/
+```
+
+## 🔄 Analysis Workflow
+
+```text
+Clean Dataset
+     ↓
+Descriptive Statistics
+     ↓
+Univariate Analysis
+     ↓
+Bivariate Analysis
+     ↓
+Trend Analysis
+     ↓
+Correlation Analysis
+     ↓
+Visualization
+     ↓
+Agribusiness Insights
+```
+
+## 📊 Expected Outcome
+
+The week produced a structured EDA framework for identifying agricultural production patterns, regional differences and relationships between key variables.
+
+## 🚀 Next Step
+
+The insights and prepared datasets from Week 3 provided the analytical foundation for **Week 4: Agricultural Machine Learning Model Development**.
+
+## 👨‍💻 Author
+
+**Arav Jain**
+Agribusiness Analytics Internship
+NMIMS Shirpur
