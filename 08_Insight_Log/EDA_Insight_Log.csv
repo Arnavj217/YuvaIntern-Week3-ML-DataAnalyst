@@ -1,0 +1,9 @@
+Theme,Observed pattern,Implication
+Yield distribution,Yield values form crop-specific clusters.,Benchmark productivity at crop level rather than using one pooled threshold.
+Crop comparison,Average production differs by crop.,Production scale should be separated from productivity.
+Geography,Average production differs across states.,Crop mix and area make geographic segmentation important.
+Time trend,Crop trajectories are not identical.,Commodity-specific monitoring is preferable to one aggregate trend.
+Area vs production,Positive association is visible.,Output reflects both cultivated area and yield.
+Yield vs production,Higher yield is associated with higher production in the sample.,Productivity and scale should be monitored together.
+Correlation,Numeric variables have measurable linear associations.,"Correlation is descriptive, not causal."
+Data quality,"Missing, duplicate and inconsistent records were resolved before EDA.",Reliable EDA requires documented preprocessing.

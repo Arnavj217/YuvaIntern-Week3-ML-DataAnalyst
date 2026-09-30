@@ -1,0 +1,21 @@
+# Week 3 Submission Checklist
+- [x] Public dataset selected and justified
+- [x] Source URL and context
+- [x] Dataset description
+- [x] Data preparation
+- [x] Univariate EDA
+- [x] Bivariate EDA
+- [x] Time-series EDA
+- [x] Correlation analysis
+- [x] Histogram
+- [x] Bar charts
+- [x] Line charts
+- [x] Scatter plots
+- [x] Heatmap
+- [x] Boxplot
+- [x] Visualization interpretation
+- [x] Agribusiness implications
+- [x] Limitations
+- [x] Reproducible code
+- [x] Supporting tables
+- [x] Final DOCX
