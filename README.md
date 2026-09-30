@@ -90,6 +90,6 @@ The insights and prepared datasets from Week 3 provided the analytical foundatio
 
 ## 👨‍💻 Author
 
-**Arav Jain**
+**Arnav Jain**
 Agribusiness Analytics Internship
 NMIMS Shirpur
